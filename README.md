@@ -432,7 +432,7 @@
 
 **Example:** The author's writing style in this text is concise, informative and uses a journalistic tone.They maintain smooth flow throughout the text. They Use Precise And Clear language. 
 
-**Format: **Bullet pointed list 
+**Format:** Bullet pointed list 
 Extract = [Insert Here] 
 Using the analyzed tone, rewrite[text]. 
 Text = [Insert Here] 
